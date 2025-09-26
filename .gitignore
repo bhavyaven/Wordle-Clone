@@ -31,8 +31,6 @@ node_modules/
 *.tmp
 *~
 
-README.md
-
 # Instructor-only files (DO NOT SHARE WITH STUDENTS)
 instructor-guide.tex
 instructor-guide.pdf
