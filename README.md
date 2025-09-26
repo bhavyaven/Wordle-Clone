@@ -28,8 +28,14 @@ My implementation approach was to work through each of the functions as seen in 
 - Displays appropriate end game modals with statistics
 
 ## WIN/LOSE SCREENSHOTS
+
+Win: Answer = PILOT
+
 <img width="541" height="823" alt="image" src="https://github.com/user-attachments/assets/ba5925f0-671c-447d-97c3-9fb4cc13916e" />
+
+
+Lose: Answer = JOINT
 
 <img width="491" height="823" alt="image" src="https://github.com/user-attachments/assets/c7f75040-cc3f-42ad-97e7-be4f4c953ffc" />
 
-<img width="453" height="828" alt="image" src="https://github.com/user-attachments/assets/ccb54e5d-4056-4a6b-a324-b0818fe8b095" />
+<img width="491" height="823" alt="image" src="https://github.com/user-attachments/assets/ccb54e5d-4056-4a6b-a324-b0818fe8b095" />
